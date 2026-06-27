@@ -1,5 +1,7 @@
-/* here we do from zero until we stop the timer
+/* here we do from zero until we stop the timer using CTR AND C on terminal
+also if we dont stop it the timer will stop at 100
 */
+
 
 #include<stdio.h>
 #include<unistd.h>
